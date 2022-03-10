@@ -1,6 +1,6 @@
 # Android Studio SD卡访问权限
 
-~~0、将android版本升级直6.0以上~~
+~~0、将android版本升级至6.0以上~~
 
 1、在 `AndroidManifext.xml` 的 `manifest` 块内添加如下代码
 
